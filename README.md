@@ -1,2 +1,2 @@
 # Exploratory Data Analysis
-#### In this repo, EDA on various datasets are there.
+#### In this repo, EDA on various datasets will be added.
